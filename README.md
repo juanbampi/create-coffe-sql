@@ -75,6 +75,7 @@ Este proyecto consiste en el diseño e implementación de una base de datos rela
 ---
 
 ## 📁 Estructura de archivos
-- `create_coffee_database.pdf`: Documento principal del proyecto, incluye el código SQL para crear una base de datos de una cafetería.
-- `README.md`: Archivo con la descripción general del proyecto.
+README.md: Archivo con la descripción general del proyecto.
+scriptFINAL.sql: Contiene todo el código SQL utilizado para crear la base de datos de la cafetería, incluyendo tablas, stored procedures y triggers.
+SQL_ProyectoFinal.pdf: Documento de presentación del proyecto, donde se expone la estructura de la base de datos, gráficos y análisis realizados.
 
